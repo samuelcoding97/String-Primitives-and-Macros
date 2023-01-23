@@ -1,6 +1,7 @@
 # Integer operations and data validation the hard way with String Primitives and Macros
 
 ## GIF Demonstration
+![](https://github.com/samuelcoding97/String-Primitives-and-Macros/blob/main/String%20Primitives%20and%20Macros/program-demonstration.gif)
 
 <img src=/blob/main/String%20Primitives%20and%20Macros/program-demonstration.gif width="300"/>
 
