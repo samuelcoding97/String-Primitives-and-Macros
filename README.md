@@ -2,7 +2,7 @@
 
 ## GIF Demonstration
 
-![gif of the program running](https://github.com/samuelcoding97/String-Primitives-and-Macros/blob/main/String%20Primitives%20and%20Macros/program-demonstration.gif | width=300)
+<img src=/blob/main/String%20Primitives%20and%20Macros/program-demonstration.gif width="300"/>
 
 ## About
 To get into the grit of software, is to recognize that integers are represented as ASCII symbols onscreen, rather than their true values. This program performs basic integer operations and data validation *without* using the standard ReadInt, ReadDec, WriteInt and WriteDec. Furthermore, the program does not use WriteString, but rather invokes Macros to display string primitives onscreen. 
