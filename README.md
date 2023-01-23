@@ -1,5 +1,9 @@
 # Integer operations and data validation the hard way with String Primitives and Macros
 
+## GIF Demonstration
+
+![gif of the program running](https://github.com/samuelcoding97/String-Primitives-and-Macros/blob/main/String%20Primitives%20and%20Macros/program-demonstration.gif)
+
 ## About
 To get into the grit of software, is to recognize that integers are represented as ASCII symbols onscreen, rather than their true values. This program performs basic integer operations and data validation *without* using the standard ReadInt, ReadDec, WriteInt and WriteDec. Furthermore, the program does not use WriteString, but rather invokes Macros to display string primitives onscreen. 
 
@@ -17,7 +21,3 @@ Viewing MASM files requires Windows, or <a href="https://www.citrix.com/products
 4. Open the Project.sln file with Visual Studio.
 5. Proj6_millsamu.asm (the solution file with the program) should already be loaded on screen.
 6. Press Ctrl + F5, or click "Debug" at the top of the screen and then "Start Without Debugging"
-
-## GIF Demonstration
-
-![gif of the program running]
